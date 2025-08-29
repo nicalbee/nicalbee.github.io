@@ -4,6 +4,10 @@ title: Grants
 #subtitle: I've been involved with teams who've been awarded money to conduct research
 use-site-title: true
 ---
+## 2025
+Hellenic Foundation for Research and Innovation’s (Greece) Research Projects to Support Faculty Members & Researchers (2025). Characteristics of the broader autism phenotype: Investigating cerebral lateralities using functional transcranial Doppler ultrasound, neuropsychological assessment, and genetics Papadatou-Pastou M, Ocklenburg S, Badcock NA, Parker A, Ahtam B, Sampanis P, Papadopoulou N, & Phylactou P. ($344,616)
+## 2023
+University of Western Australia Learning and Teaching Excellence Grants (2023). Building Belongingness with First-Year Psychology Labs. Badcock NA. ($1,891)
 ## 2019
 Hellenic Foundation for Research and Innovation (Greece). By (writing) hand: Investigating the cerebral laterality during writing using functional transcranial Doppler ultrasound and the genetic relationship of laterality with special learning difficulties (dyslexia, dysgraphia). Papadatou-Pastou M, Paracchini S, & Badcock NA. ($258,580)
 
