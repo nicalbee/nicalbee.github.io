@@ -5,8 +5,15 @@ subtitle: Electronic versions are provided as a professional courtesy to ensure 
 use-site-title: true
 ---
 ## Accepted
+McKerchar S, Mire EL, Badcock N, Jones M, Swift C, De Wit B, & Ejova A (2025, 3 June No Evidence for Unconscious Attentional Bias in People With Clinically Significant Symptoms of Functional Gastrointestinal Disorders: A Study Using the Emerging Electroencephalographic Paradigm of Fast Periodic Visual Stimulation. Neurogastroenterology & Motility, e70099. [https://doi.org/10.1111/nmo.70099](https://doi.org/10.1111/nmo.70099)
+
+Selkirk B, Alexi J, Gibson C, Naragon-Gainey K, Ohan J, Farrell S, Magiati I, Kanse L, Kennedy BL, Badcock NA, Kurz T, Derry KL, Kashyap S, Collova JR, Chang EP, & Dudgeon PM (2025, 25 Feb). Yarning sessions to facilitate cultural responsiveness and decolonising the curriculum in a university psychology. Australian Psychologist. [https://doi.org/10.1080/00050067.2025.2492024](https://doi.org/10.1080/00050067.2025.2492024)
+
+## 2025
+Samsouris C, Papadopoulou KA, Badcock NA, Vlachos F, Phylactou P, & Papadatou-Pastou M (2025). Cerebral Lateralization During Handwritten and Typed Word Generation: A Functional Transcranial Doppler Ultrasound Study in Left-Handers and Right-Handers. European Journal of Neuroscience, 61(4), e70013. [https://doi.org/10.1111/ejn.70013](https://doi.org/10.1111/ejn.70013)
 
 ## 2024
+
 Quin-Conroy JE, Thompson PA, Bayliss DM, & Badcock NA. (2024). Generalized models for estimating cerebral lateralisation of young children using functional transcranial Doppler ultrasound. Human Brain Mapping, 45(13), e70012. [https://doi.org/10.1002/hbm.70012](https://doi.org/10.1002/hbm.70012)
 
 Sabio J, Williams NS, McArthur G, & Badcock NA (2024). A scoping review on the use of consumer-grade EEG devices for research. PLOS ONE, 19(3), e0291186. [https://doi.org/10.1371/journal.pone.0291186](https://doi.org/10.1371/journal.pone.0291186)
