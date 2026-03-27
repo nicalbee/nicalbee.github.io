@@ -4,8 +4,16 @@ title: Publications
 subtitle: Electronic versions are provided as a professional courtesy to ensure dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein reside with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 use-site-title: true
 ---
-## Accepted
-Not applicable
+## 2026
+
+Quin-Conroy JE, Bayliss D, & Badcock NA (2026). Patterns of Language and Visuospatial Lateralisation and Cognitive Ability in Young Children Aged 4 to 7 Years. Developmental Science.
+
+Quin-Conroy JE, Bayliss DM, Bovell SJ, Eamer D, Earl GHM, Fisher SE, Francks C, Maybery MT, Pillar S, Silva D, Whitehouse AJO, & Badcock NA (2026). Patterns of Language and Visuospatial Lateralisation in Three-Year-Old Children. Neuropsychologia, 109434. [https://doi.org/10.1016/j.neuropsychologia.2026.109434](https://doi.org/10.1016/j.neuropsychologia.2026.109434)
+
+Stuart N, Gignac G, Fox C, Badcock NA, Sheridan A, & Pestel C (2026). Hyperactivity-Impulsivity, Inattention, and Cognitive Disengagement Syndrome: A Meta-Analytic Investigation of Overlapping and Differential Cognitive Associations. Journal of Psychopathology and Clinical Science. 
+
+Bollig B, Coverdale G, Bayliss D, McArthur G, & Badcock N (2026). What parents, teachers, and clinicians know about the features of developmental dyslexia and its intervention: A scoping review. Dyslexia. [https://doi.org/10.1002/dys.70017](https://doi.org/10.1002/dys.70017)
+
 ## 2025
 
 Coverdale G, Perry Y, Magiati I, Badcock NA, Bollig B, & Alvares GA. (2025). A Scoping Review of Digital Interventions Targeting Anxiety in Young Children. Child & Youth Care Forum. [https://doi.org/10.1007/s10566-025-09899-9](https://doi.org/10.1007/s10566-025-09899-9)
@@ -40,11 +48,12 @@ Terry J, … Badcock NA, … Field AP. (March 03, 2023). Data from an Internatio
 ## 2022
 Parker AJ, Woodhead ZVJ, Carey DP, Groen MA, Gutierrez-Sigut E, Hodgson JC, Hudson J, Karlsson EM, MacSweeney M, Payne HM, Simpson N, Thompson PA, Watkins KE, Egan C, Grant JH, Harte S, Hudson BT, Sablik M, Badcock NA, & Bishop DVM (2022). Inconsistent language lateralisation—Testing the dissociable language laterality hypothesis using behaviour and lateralised cerebral blood flow. Cortex, 154, 105-134. [https://doi.org/10.1016/j.cortex.2022.05.013](https://doi.org/10.1016/j.cortex.2022.05.013)
 
-5Papadatou-Pastou M, Sampanis P, Koumzis I, Stefanopoulou S, Sousani D, Tsigkou A, & Badcock NA (2022). Cerebral laterality for writing in right- and left- handers: A functional transcranial Doppler ultrasound study. European Journal of Neuroscience, 56 (2), 3921-2937. [https://doi.org/10.1111/ejn.15723](https://doi.org/10.1111/ejn.15723)
+Papadatou-Pastou M, Sampanis P, Koumzis I, Stefanopoulou S, Sousani D, Tsigkou A, & Badcock NA (2022). Cerebral laterality for writing in right- and left- handers: A functional transcranial Doppler ultrasound study. European Journal of Neuroscience, 56 (2), 3921-2937. [https://doi.org/10.1111/ejn.15723](https://doi.org/10.1111/ejn.15723)
 
 Stuart N, Bothe E, Palermo R, Whitehouse A, & Badcock NA (2022). Eye gaze in autism spectrum disorder: A review of neural evidence for the eye avoidance hypothesis. Journal of Autism and Developmental Disorders. [https://doi.org/10.1007/s10803-022-05443-z](https://doi.org/10.1007/s10803-022-05443-z )
 
 Quin-Conroy J, Chen Y, Bayliss D, & Badcock NA (2022). Magic Hats and Teddy Bear Picnics: Language and Visuospatial Lateralisation Tasks for Children. Laterality. [https://doi.org/10.1080/1357650X.2021.2020808](https://doi.org/10.1080/1357650X.2021.2020808)
+
 Bentvelzen AC, Kessels RPC, Badcock NA, & Savage G. (2022). The impact of right temporal lobe epilepsy on nonverbal memory: Meta-regression of stimulus- and task-related moderators. Neuropsychology Review. 32 (3), 537-557. [10.1007/s11065-021-09514-3](10.1007/s11065-021-09514-3)
 
 ## 2021
