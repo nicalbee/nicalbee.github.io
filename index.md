@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nicholas Badcock
-subtitle: Attention - Perception - Cognitive Development - Neuroscience
+subtitle: Attention - Perception - Cognitive Development - Wellbeing
 use-site-title: true
 ---
 
